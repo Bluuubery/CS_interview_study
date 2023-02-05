@@ -52,19 +52,19 @@
     5. 그래프 기초(dfs bfs) + 백트래킹 
     6. 그래프 심화(벨만포드 / 다익스트라 / 플로이드와샬) 
     7. mst
-    8.  분할정복 / 이분탐색 
-    9.  그리디
+    8. 분할정복 / 이분탐색 
+    9. 그리디
 
 4.  네트워크
     1. HTTP HTTPS, HTTP Method
     2. TCP와 UDP
     3. TCP 3way / 4way handshake
     4. 쿠키와 세션
-    5. www.naver.om에 접속할 떄 생기는 일
+    5. www.naver.com에 접속할 떄 생기는 일
     6. OSI 7계층
-    7.  DNS
-    8.  라우터 / 라우팅 알고리즘
-    9.  웹소켓
+    7. DNS
+    8. 라우터 / 라우팅 알고리즘
+    9. 웹소켓
 
 5.  운영체제
     1. 프로세스와 스레드의 차이
@@ -72,10 +72,10 @@
     3. 세마포어 & 뮤텍스
     4. 컨텍스트 스위칭
     5. 선점형 스케줄링 비선점형 스케줄링
-    6.  paging system segmentation system
-    7.  paging algorithm
-    8.  caching
-    9.  가상 메모리(단편화) + page fault 
+    6. paging system segmentation system
+    7. paging algorithm
+    8. caching
+    9. 가상 메모리(단편화) + page fault 
     10. 메모리 구조
     11. 디스크 스케줄링
     12. raid
