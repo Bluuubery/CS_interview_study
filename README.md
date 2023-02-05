@@ -60,7 +60,7 @@
     2. TCP와 UDP
     3. TCP 3way / 4way handshake
     4. 쿠키와 세션
-    5. www.naver.om에 접속할 떄 생기는 일
+    5. www.naver.com에 접속할 떄 생기는 일
     6. OSI 7계층
     7.  DNS
     8.  라우터 / 라우팅 알고리즘
