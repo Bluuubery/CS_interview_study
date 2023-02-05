@@ -32,11 +32,63 @@
 ### 📚 학습 목차
 
 1. 프로그래밍 일반
-2. 네트워크
-3. 운영체제
-4. 데이터베이스
-5. 자료구조
-6. 알고리즘
+   
+2. 자료구조
+   1. array vector linked list
+   2. stack queue
+   3. priority queue / deque
+   4. hash
+   5. heap
+   6. graph
+   7. tree 이진트리 완전이진트리 이진탐색트리
+   8. avl / redblack tree
+   9. union-find
+
+3.  알고리즘
+    1. 시간복잡도
+    2. 정렬(버블/선택/퀵/병합/삽입)
+    3. 재귀
+    4. dp
+    5. 그래프 기초(dfs bfs) + 백트래킹 
+    6. 그래프 심화(벨만포드 / 다익스트라 / 플로이드와샬) 
+    7. mst
+    8.  분할정복 / 이분탐색 
+    9.  그리디
+
+4.  네트워크
+    1. HTTP HTTPS, HTTP Method
+    2. TCP와 UDP
+    3. TCP 3way / 4way handshake
+    4. 쿠키와 세션
+    5. www.naver.om에 접속할 떄 생기는 일
+    6. OSI 7계층
+    7.  DNS
+    8.  라우터 / 라우팅 알고리즘
+    9.  웹소켓
+
+5.  운영체제
+    1. 프로세스와 스레드의 차이
+    2. 데드락
+    3. 세마포어 & 뮤텍스
+    4. 컨텍스트 스위칭
+    5. 선점형 스케줄링 비선점형 스케줄링
+    6.  paging system segmentation system
+    7.  paging algorithm
+    8.  caching
+    9.  가상 메모리(단편화) + page fault 
+    10. 메모리 구조
+    11. 디스크 스케줄링
+    12. raid
+
+6.  데이터베이스
+    1. 데이터베이스 기본 개념
+    2. 데이터베이스 언어 (sql: ddl dml dcl)
+    3. RDBMS와 NoSql
+    4. 인덱싱
+    5. 정규화
+    6. 반정규화
+    7. 트랜젝션
+    8. join
 
 ## 6. 진행 방식
 
@@ -63,7 +115,7 @@
 		1주차_손승환.md/
 		1주차_오주영.md/
 
-    2. 네트워크/
+    2. 자료구조/
     	""" 이하동일 """
 
     README.md
