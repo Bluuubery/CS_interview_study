@@ -43,14 +43,14 @@
    8. 프레임워크 vs 라이브러리
    
 2. 자료구조
-   1. array vector linked list
-   2. stack queue
-   3. priority queue / deque
-   4. hash
-   5. heap
-   6. graph
-   7. tree 이진트리 완전이진트리 이진탐색트리
-   8. avl / redblack tree
+   1. Array, Vector, Linked list
+   2. Stack, Queue
+   3. Deque
+   4. Priority Queue, Heqp
+   5. Hash
+   6. Graph
+   7. Tree
+   8. Tree 
    9. union-find
 
 3.  알고리즘
