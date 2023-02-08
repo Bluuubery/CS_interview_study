@@ -13,6 +13,7 @@
     <td align="center"><a href="https://github.com/oju0"><img src="https://avatars.githubusercontent.com/u/109325578?v=4?s-100" width="100px;" alt=""/><br /><sub><b>oju0</b></sub></a><br /></td>   
   </tr>
 </table>
+
 ## 3. 교재 및 강의
 
 - 없음
@@ -26,16 +27,77 @@
 
 ### 📅 기간
 
-7주
+6주
 
 ### 📚 학습 목차
 
 1. 프로그래밍 일반
-2. 네트워크
-3. 운영체제
-4. 데이터베이스
-5. 자료구조
-6. 알고리즘
+
+   1. 프로그래밍 패러다임
+   2. 객체지향 프로그래밍(OOP)
+   3. REST API
+   4. GIT & GITHUB
+   5. 개발 방법론
+   6. 디자인 패턴
+   7. 비동기 처리
+   8. 프레임워크 vs 라이브러리
+   
+2. 자료구조
+   1. Array, Vector, Linked list
+   2. Stack, Queue
+   3. Deque
+   4. Priority Queue, Heqp
+   5. Hash
+   6. Graph
+   7. Tree
+   8. Tree 
+   9. union-find
+
+3.  알고리즘
+    1. 시간복잡도
+    2. 정렬(버블/선택/퀵/병합/삽입)
+    3. 재귀
+    4. dp
+    5. 그래프 기초(dfs bfs) + 백트래킹 
+    6. 그래프 심화(벨만포드 / 다익스트라 / 플로이드와샬) 
+    7. mst
+    8. 분할정복 / 이분탐색 
+    9. 그리디
+
+4.  네트워크
+    1. HTTP HTTPS, HTTP Method
+    2. TCP와 UDP
+    3. TCP 3way / 4way handshake
+    4. 쿠키와 세션
+    5. www.naver.com에 접속할 떄 생기는 일
+    6. OSI 7계층
+    7. DNS
+    8. 라우터 / 라우팅 알고리즘
+    9. 웹소켓
+
+5.  운영체제
+    1. 프로세스와 스레드의 차이
+    2. 데드락
+    3. 세마포어 & 뮤텍스
+    4. 컨텍스트 스위칭
+    5. 선점형 스케줄링 비선점형 스케줄링
+    6. paging system segmentation system
+    7. paging algorithm
+    8. caching
+    9. 가상 메모리(단편화) + page fault 
+    10. 메모리 구조
+    11. 디스크 스케줄링
+    12. raid
+
+6.  데이터베이스
+    1. 데이터베이스 기본 개념
+    2. 데이터베이스 언어 (sql: ddl dml dcl)
+    3. RDBMS와 NoSql
+    4. 인덱싱
+    5. 정규화
+    6. 반정규화
+    7. 트랜젝션
+    8. join
 
 ## 6. 진행 방식
 
@@ -62,15 +124,15 @@
 		1주차_손승환.md/
 		1주차_오주영.md/
 
-    2. 네트워크/
+  2. 자료구조/
     	""" 이하동일 """
 
-    README.md
+  README.md
 ```
 
 **\** 모든 파일은 스터디 당일 오전 9시까지 업로드\**
 - **commit 메시지** : 주차_이름 (ex: 1주차_유선준)
-- **학습 정리 내용** : 해당 주차 면접 질문 업로드 (.md)
+- **학습 정리 내용** : 해당 주차 학습 내용 업로드 (.md)
 
 ### ✔ 기타 규칙
 
